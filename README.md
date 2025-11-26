@@ -22,5 +22,5 @@ This project presents a comparative report analysing the features, strengths and
 
 ## Author & Affiliation  
 Demir Kurt  
-Graduate Researcher,  
+Bioinformatics Student,  
 Technical University of Munich (TUM) / Ludwig-Maximilians-Universität München (LMU)
